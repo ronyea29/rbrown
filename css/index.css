@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(248, 221, 161);
+    font-family: 'Playfair Display', serif;
+}
+
+main-nav {
+    font-variant-caps: all-small-caps;
+    font-size: 1.1rem;
+}
+
+h1, h2 {
+    font-family: 'Playfair Display', serif;
+    color: rgb(16, 16, 51);
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 1.6rem;
+}
+
+p {
+    font-size: 1.1rem;
+}
