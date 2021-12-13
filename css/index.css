@@ -8,6 +8,10 @@ main-nav {
     font-size: 1.1rem;
 }
 
+header {
+    background-image: url(/img/cupcake-background-header.jpg);
+}
+
 h1, h2 {
     font-family: 'Playfair Display', serif;
     color: rgb(16, 16, 51);
