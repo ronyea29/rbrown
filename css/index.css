@@ -1,3 +1,6 @@
+
+/* this css is for index.css */
+
 body {
     background-color: rgb(248, 221, 161);
     font-family: 'Playfair Display', serif;
@@ -9,6 +12,7 @@ main-nav {
 }
 
 header {
+    height: 60vh;
     background-image: url(/img/cupcake-background-header.jpg);
 }
 
